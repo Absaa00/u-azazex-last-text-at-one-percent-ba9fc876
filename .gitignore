@@ -1,0 +1,17 @@
+# One-percent build: keep the repo to source only.
+# Python bytecode and caches from local test runs:
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Local virtualenvs and editor state:
+.venv/
+venv/
+.vscode/
+.idea/
+# OS leftovers:
+.DS_Store
+Thumbs.db
+# The phone died at 1% — no build artifacts survive either:
+dist/
+build/
+*.egg-info/

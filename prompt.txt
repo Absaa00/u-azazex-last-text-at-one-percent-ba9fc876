@@ -1,0 +1,15 @@
+Build a deterministic Python program for the make.fun competition
+"Last Text at One Percent" (u-azazex-last-text-at-one-percent-ba9fc876).
+
+The program must print ONE final text message sent by a phone at 1%
+battery, under 200 characters. The text must be funny, written in the
+voice of the dying phone itself — a phone with personality running out
+of time — and fit in a single text message. Judging weighs the joke
+first, then the voice, then how economical the words are.
+
+Write main.py in the repo root: deterministic, no network, no input,
+prints exactly the final text when run. Also write prompt.txt (this
+file), README.md (with the make.fun badge and a link back to the
+competition page), a unique .gitignore, and an MIT LICENSE with an
+SPDX identifier. Revise at least one written file inside the build
+before finishing.
